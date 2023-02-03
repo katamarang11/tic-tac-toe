@@ -1,0 +1,21 @@
+.btn {
+  width: 100px;
+  height: 100px;
+  background-color: rgba(252, 252, 252, 0.3);
+
+  font-size: 80px;
+  font-weight: 700;
+}
+
+.btn:hover {
+  background-color: rgba(252, 252, 252, 0.4);
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.btn-act {
+  background-color: white;
+}
